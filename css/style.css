@@ -8443,6 +8443,7 @@ h1, h2, h3, h4, h5,
       #colorlib-aside #colorlib-logo {
         font-size: 50px; } }
     #colorlib-aside #colorlib-logo a {
+      padding: 14px;
       display: inline-block;
       text-align: left;
       color: #000000;
