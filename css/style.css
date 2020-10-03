@@ -8804,7 +8804,7 @@ h1, h2, h3, h4, h5,
         letter-spacing: 3px;
         color: #f3c623;
         font-weight: 700;
-        border: 1px solid #f3c623;
+        border: 1px solid #F2C523;
         padding: 2px 5px; }
       .portfolio-wrap .text .desc p {
         margin-bottom: 30px; }
@@ -9321,3 +9321,14 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+.subscribe {
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  color: black; 
+  border: 2px solid #F2C523;
+}
